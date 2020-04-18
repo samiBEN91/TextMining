@@ -1,0 +1,2 @@
+This is a sample sentence, showing off the stop words filtration.
+This is a phrase sentence, windows off the eat words one.
